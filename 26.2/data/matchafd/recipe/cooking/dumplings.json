@@ -3,7 +3,7 @@
   "experience": 1.0,
   "ingredients": [
     "minecraft:shulker_spawn_egg",
-    "#c:crops/cabbage",
+    "farmersdelight:cabbage_leaf",
     "#c:crops/onion",
     {
       "fabric:type": "fabric:any",

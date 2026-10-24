@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "farmersdelight:cooked_mutton_chops",
-    "#c:crops/beetroot",
+    "minecraft:potato",
     "minecraft:bowl",
     "farmersdelight:cooked_rice",
-    "#c:crops/tomato"
+    "minecraft:beetroot"
   ],
   "result": {
 		"id": "farmersdelight:roasted_mutton_chops",

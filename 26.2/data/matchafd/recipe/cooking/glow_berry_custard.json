@@ -2,7 +2,7 @@
   "type": "farmersdelight:cooking",
   "experience": 1.0,
   "ingredients": [
-    "minecraft:glow_berries",
+    "minecraft:rotten_flesh",
     "#c:drinks/milk",
     "#minecraft:eggs",
     "minecraft:sugar"

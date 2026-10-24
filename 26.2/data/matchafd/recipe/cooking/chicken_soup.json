@@ -6,7 +6,7 @@
     "#c:foods/raw_chicken",
     "#c:crops/carrot",
     "#c:foods/leafy_green",
-    "#c:foods/vegetable"
+    ["minecraft:beetroot", "farmersdelight:cabbage", "farmersdelight:onion", "minecraft:potato"]
   ],
   "recipe_book_tab": "meals",
   "result": {

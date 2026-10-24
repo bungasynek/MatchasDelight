@@ -4,7 +4,7 @@
     "#c:foods/cooked_salmon",
     "minecraft:sweet_berries",
     "minecraft:bowl",
-    "#c:crops/cabbage",
+    "farmersdelight:cabbage",
     "#c:crops/onion"
   ],
   "result": {

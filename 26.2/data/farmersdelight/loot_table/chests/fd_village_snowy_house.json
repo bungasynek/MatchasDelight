@@ -4,18 +4,8 @@
     {
       "entries": [
         {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 3.0,
-                "min": 1.0
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "farmersdelight:onion"
+          "type": "minecraft:loot_table",
+					"value": "matchafd:food/farmersdelight/onion"
         },
         {
           "type": "minecraft:item",

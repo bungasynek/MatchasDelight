@@ -3,6 +3,8 @@
         "description": {
             "translate": "Farmer's delight integration into Matcha Flavoured"
         },
-        "pack_format": 107.1
+        "pack_format": 107.1,
+		"min_format": 107.1,
+		"max_format": 107.1
     }
 }

@@ -3,7 +3,7 @@
   "key": {
     "#": "minecraft:dried_kelp",
     "R": "farmersdelight:cooked_rice",
-    "X": "#c:foods/vegetable"
+    "X": ["minecraft:beetroot", "farmersdelight:cabbage", "farmersdelight:onion", "minecraft:potato"]
   },
   "pattern": [
     "RXR",

@@ -3,7 +3,7 @@
   "group": "fd_pumpkin_pie",
   "key": {
     "O": "farmersdelight:pie_crust",
-    "c": "farmersdelight:pumpkin_slice",
+    "c": ["farmersdelight:pumpkin_slice", "minecraft:breeze_rod"],
     "e": "#minecraft:eggs",
     "s": "minecraft:sugar"
   },

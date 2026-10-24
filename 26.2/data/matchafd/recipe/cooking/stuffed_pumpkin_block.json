@@ -11,7 +11,7 @@
     "minecraft:brown_mushroom",
     "#c:crops/potato",
     "#c:foods/berry",
-    "#c:foods/vegetable"
+    ["minecraft:beetroot", "farmersdelight:cabbage", "farmersdelight:onion", "minecraft:potato"]
   ],
   "recipe_book_tab": "meals",
   "result": {

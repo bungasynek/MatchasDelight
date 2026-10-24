@@ -2,8 +2,8 @@
   "type": "farmersdelight:cooking",
   "experience": 1.0,
   "ingredients": [
-    "farmersdelight:pumpkin_slice",
-    "#c:foods/leafy_green",
+    ["farmersdelight:pumpkin_slice", "minecraft:breeze_rod"],
+    "farmersdelight:cabbage_leaf",
     "#c:foods/raw_pork",
     "#c:drinks/milk"
   ],

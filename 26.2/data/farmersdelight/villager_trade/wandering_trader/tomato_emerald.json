@@ -1,0 +1,12 @@
+{
+  "gives": {
+    "id": "farmersdelight:honey_glazed_ham",
+    "count": 8
+  },
+  "max_uses": 1.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "id": "minecraft:emerald"
+  },
+  "xp": 12.0
+}

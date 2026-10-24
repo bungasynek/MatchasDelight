@@ -5,7 +5,7 @@
     "#c:foods/raw_cod",
     "#c:crops/potato",
     "#minecraft:eggs",
-    "#c:crops/tomato"
+    "minecraft:beetroot"
   ],
   "recipe_book_tab": "meals",
   "result": {

@@ -3,7 +3,7 @@
   "ingredients": [
     "#c:foods/bread",
     "farmersdelight:beef_patty",
-    "#c:foods/leafy_green",
+    "farmersdelight:cabbage_leaf",
     "minecraft:beetroot",
     "#c:crops/onion"
   ],

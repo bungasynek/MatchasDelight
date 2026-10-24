@@ -24,49 +24,16 @@
           "name": "farmersdelight:ham"
         },
         {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "farmersdelight:minced_beef",
-          "weight": 3
+          "type": "minecraft:loot_table",
+					"value": "matchafd:food/farmersdelight/minced_beef"
         },
         {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "farmersdelight:bacon",
-          "weight": 3
+          "type": "minecraft:loot_table",
+					"value": "matchafd:food/farmersdelight/bacon"
         },
         {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "farmersdelight:mutton_chops",
-          "weight": 3
+          "type": "minecraft:loot_table",
+					"value": "matchafd:food/farmersdelight/mutton_chops"
         },
         {
           "type": "minecraft:empty"

@@ -1,0 +1,19 @@
+{
+  "pack": {
+	"min_format": [88.0],
+	"max_format": [88.0],
+    "description": [
+      {
+        "text": "Matcha Flavoured x Farmer's delight compat resource pack",
+        "color": "#56be4e"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Matcha Flavoured x Naturalist compat resource pack",
+        "color": "#908b8b"
+      }
+    ]
+  }
+}

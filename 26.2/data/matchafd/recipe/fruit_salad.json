@@ -6,7 +6,7 @@
     "minecraft:melon_slice",
     "#c:foods/berry",
     "#c:foods/berry",
-    "farmersdelight:pumpkin_slice",
+    ["farmersdelight:pumpkin_slice", "minecraft:breeze_rod"],
     "minecraft:bowl"
   ],
   "result": {

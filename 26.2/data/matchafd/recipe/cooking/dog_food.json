@@ -2,7 +2,7 @@
   "type": "farmersdelight:cooking",
   "experience": 1.0,
   "ingredients": [
-    "minecraft:rotten_flesh",
+    ["minecraft:beetroot", "farmersdelight:cabbage", "farmersdelight:onion", "minecraft:potato"],
     "minecraft:bone_meal",
     "#c:foods/raw_meat",
     "#c:crops/rice"
