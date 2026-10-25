@@ -4,8 +4,8 @@
   "ingredients": [
     "#c:crops/carrot",
     "#c:crops/potato",
-    "#c:crops/beetroot",
-    "#c:foods/leafy_green"
+    ["minecraft:beetroot", "farmersdelight:cabbage", "farmersdelight:onion", "minecraft:potato"],
+    "farmersdelight:cabbage_leaf"
   ],
   "recipe_book_tab": "meals",
   "result": {

@@ -9,7 +9,7 @@
       "ingredients": [
         "#c:foods/raw_meat",
         "#c:foods/safe_raw_fish",
-        "#c:foods/vegetable",
+        ["minecraft:beetroot", "farmersdelight:cabbage", "farmersdelight:onion", "minecraft:potato"],
         "#c:mushrooms"
       ]
     }

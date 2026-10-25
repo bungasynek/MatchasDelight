@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "#c:foods/bread",
-    "#c:foods/cooked_chicken",
-    "#c:foods/leafy_green",
+    "farmersdelight:cooked_chicken_cuts",
+    "farmersdelight:cabbage_leaf",
     "#c:crops/carrot"
   ],
   "result": {

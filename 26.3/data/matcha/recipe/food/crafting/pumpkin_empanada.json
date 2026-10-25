@@ -1,26 +1,29 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "building",
-  "key": {
-    "#": "farmersdelight:pumpkin_slice"
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-"result": {
-    "id": "minecraft:pumpkin_pie",
-    "components": {
-      "minecraft:lore": [
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		["farmersdelight:pumpkin_slice", "minecraft:breeze_rod"],
+		"minecraft:sugar",
+		"minecraft:glowstone_dust",
+		"minecraft:shulker_spawn_egg"
+	],
+	"result": {
+		"id": "minecraft:poisonous_potato",
+		"components": {
+			"minecraft:item_model": "matcha:pumpkin_empanada",
+			"minecraft:item_name": {
+				"translate": "item.kleispack.pumpkin_empanada"
+			},
+			"minecraft:lore": [
 				{
-					"text": "\ue030\ue030\ue032",
+					"text": "\ue030\ue030\ue030\ue030",
 					"color": "red",
 					"italic": false
 				},
 				{
 					"translate": "effect.kleispack.resistance",
 					"with": [
-						"4:00"
+						"8:00"
 					],
 					"color": "blue",
 					"italic": false
@@ -37,16 +40,16 @@
 							{
 								"id": "minecraft:regeneration",
 								"amplifier": 2,
-								"duration": 60,
+								"duration": 96,
 								"show_particles": false,
 								"show_icon": false
 							},
 							{
 								"id": "minecraft:resistance",
-								"amplifier": 1,
-								"duration": 4800,
+								"amplifier": 0,
+								"duration": 9600,
 								"show_particles": false,
-								"show_icon": false
+								"show_icon": true
 							}
 						]
 					}

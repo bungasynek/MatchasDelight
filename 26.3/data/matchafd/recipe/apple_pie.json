@@ -4,7 +4,7 @@
   "key": {
     "#": "#c:crops/wheat",
     "O": "farmersdelight:pie_crust",
-    "a": "minecraft:apple",
+    "a": "minecraft:fermented_spider_eye",
     "x": "minecraft:sugar"
   },
   "pattern": [
@@ -19,6 +19,14 @@
 				{
 					"text": "\ue030\ue030\ue030\ue030",
 					"color": "red",
+					"italic": false
+				},
+				{
+					"translate": "effect.kleispack.regeneration",
+					"with": [
+						"0:20"
+					],
+					"color": "#e85e8f",
 					"italic": false
 				}
 			],
@@ -36,6 +44,13 @@
 								"duration": 96,
 								"show_particles": false,
 								"show_icon": false
+							},
+							{
+								"id": "minecraft:regeneration",
+								"amplifier": 0,
+								"duration": 400,
+								"show_particles": false,
+								"show_icon": true
 							}
 						]
 					}

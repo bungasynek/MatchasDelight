@@ -819,6 +819,70 @@
       {
         "namespace": "farmersdelight",
         "path": "advancement/recipes/food/wheat_dough_from_egg.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/beetroot_crate.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "advancement/recipes/building_blocks/beetroot_crate.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/tomato_crate.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "advancement/recipes/building_blocks/tomato_crate.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/tomato_seeds.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "advancement/recipes/misc/tomato_seeds.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/oragnic_compost_from_rotten_flesh.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "advancement/recipes/building_blocks/oragnic_compost_from_rotten_flesh.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/fried_egg.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "advancement/recipes/food/fried_egg.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/fried_egg_from_smoking.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "advancement/recipes/food/fried_egg_from_smoking.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/fried_egg_from_campfire.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "advancement/recipes/food/fried_egg_from_campfire.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "recipe/pumpkin_pie_from_pie_crust.json"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "advancement/recipes/food/pumpkin_pie_from_pie_crust.json"
       }
     ]
   }

@@ -2,7 +2,7 @@
   "type": "farmersdelight:cooking",
   "experience": 1.0,
   "ingredients": [
-    "minecraft:glow_berries",
+    "minecraft:rotten_flesh",
     "#c:drinks/milk",
     "#minecraft:eggs",
     "minecraft:sugar"
@@ -27,7 +27,7 @@
 				{
 					"translate": "effect.kleispack.aura",
 					"with": [
-						"0:30"
+						"1:00"
 					],
 					"color": "#0fffa3",
 					"italic": false
@@ -60,7 +60,7 @@
 				]
 			},
 			"minecraft:custom_data": {
-        "matcha:aura_30s": {},
+				"matcha:aura_60s": {},
 				"version": 1
 			}
 		}

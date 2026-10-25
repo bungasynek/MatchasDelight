@@ -5,7 +5,7 @@
   "experience": 0.35,
   "ingredient": "farmersdelight:salmon_slice",
   "result": {
-		"id": "farmersdelight:cooked_salmon_slice",
+		"id": "farmersdelight:cooked_mutton_chops",
 		"components": {
 			"minecraft:lore": [
 				{

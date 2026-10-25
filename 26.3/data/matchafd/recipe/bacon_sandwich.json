@@ -3,7 +3,7 @@
   "ingredients": [
     "#c:foods/bread",
     "#c:foods/cooked_bacon",
-    "#c:foods/leafy_green",
+    "farmersdelight:cabbage_leaf",
     "minecraft:beetroot"
   ],
   "result": {

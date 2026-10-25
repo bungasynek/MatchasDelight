@@ -2,10 +2,10 @@
   "type": "farmersdelight:cooking",
   "experience": 1.0,
   "ingredients": [
-    "minecraft:beetroot",
+    "minecraft:carrot",
     "#c:crops/onion",
     "#c:crops/beetroot",
-    "#c:foods/vegetable"
+    ["minecraft:beetroot", "farmersdelight:cabbage", "farmersdelight:onion", "minecraft:potato"]
   ],
   "recipe_book_tab": "meals",
   "result": {

@@ -15,7 +15,7 @@
           "type": "minecraft:empty"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     },
     {
       "entries": [
@@ -24,48 +24,42 @@
           "name": "farmersdelight:ham"
         },
         {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
+          "type": "minecraft:loot_table",
+          "value": "matchafd:food/farmersdelight/minced_beef",
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 6,
+              "min": 2
             }
-          ],
-          "name": "farmersdelight:minced_beef",
+          },
           "weight": 3
         },
         {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
+          "type": "minecraft:loot_table",
+          "value": "matchafd:food/farmersdelight/bacon",
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 6,
+              "min": 2
             }
-          ],
-          "name": "farmersdelight:bacon",
+          },
           "weight": 3
         },
         {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 6.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
+          "type": "minecraft:loot_table",
+          "value": "matchafd:food/farmersdelight/mutton_chops",
+          "modifier": {
+            "type": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 6,
+              "min": 2
             }
-          ],
-          "name": "farmersdelight:mutton_chops",
+          },
           "weight": 3
         },
         {
@@ -74,8 +68,8 @@
       ],
       "rolls": {
         "type": "minecraft:uniform",
-        "max": 2.0,
-        "min": 1.0
+        "max": 2,
+        "min": 1
       }
     }
   ]
