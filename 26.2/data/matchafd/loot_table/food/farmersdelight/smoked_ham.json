@@ -10,7 +10,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_components",
-							"components": {"components": {
+							"components": {
 			"minecraft:lore": [
 				{
 					"text": "\ue030\ue030\ue032",
@@ -41,7 +41,6 @@
 				"version": 1
 			}
 		}
-	}
 						}
 					]
 				}

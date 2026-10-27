@@ -23,6 +23,14 @@
 					],
 					"color": "#ccff00",
 					"italic": false
+				},
+				{
+					"translate": "effect.kleispack.aura",
+					"with": [
+						"1:00"
+					],
+					"color": "#0fffa3",
+					"italic": false
 				}
 			],
 			"!minecraft:food": {},
@@ -52,6 +60,7 @@
 				]
 			},
 			"minecraft:custom_data": {
+				"matcha:aura_60s": {},
 				"version": 1
 			}
 		}

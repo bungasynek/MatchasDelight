@@ -1,10 +1,20 @@
 {
     "pack": {
-        "description": {
-            "translate": "Farmer's delight integration into Matcha Flavoured"
-        },
+        "description": [
+            {
+            "text": "Farmer's delight integration into Matcha Flavoured",
+            "color": "#56be4e"
+            },
+            {
+        "text": "\n"
+            },
+            {
+        "text": "Version 1.3",
+        "color": "#908b8b"
+            }
+        ],
         "pack_format": 107.1,
 		"min_format": 107.1,
 		"max_format": 107.1
-    }
+        }
 }
