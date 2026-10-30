@@ -14,7 +14,7 @@
 		"components": {
 			"minecraft:lore": [
 				{
-					"text": "\ue030\ue030\ue032",
+					"text": "\ue030\ue030\ue030\ue032",
 					"color": "red",
 					"italic": false
 				},
@@ -38,7 +38,7 @@
 							{
 								"id": "minecraft:regeneration",
 								"amplifier": 2,
-								"duration": 60,
+								"duration": 84,
 								"show_particles": false,
 								"show_icon": false
 							},

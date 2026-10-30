@@ -12,14 +12,14 @@
 		"components": {
 			"minecraft:lore": [
 				{
-					"text": "\ue030\ue030\ue030\ue030",
+					"text": "\ue030\ue030\ue030\ue030\ue030\ue032",
 					"color": "red",
 					"italic": false
 				},
 				{
 					"translate": "effect.kleispack.resistance",
 					"with": [
-						"5:00"
+						"10:00"
 					],
 					"color": "blue",
 					"italic": false
@@ -36,14 +36,14 @@
 							{
 								"id": "minecraft:regeneration",
 								"amplifier": 2,
-								"duration": 96,
+								"duration": 132,
 								"show_particles": false,
 								"show_icon": false
 							},
 							{
 								"id": "minecraft:resistance",
-								"amplifier": 1,
-								"duration": 6000,
+								"amplifier": 0,
+								"duration": 12000,
 								"show_particles": false,
 								"show_icon": false
 							}

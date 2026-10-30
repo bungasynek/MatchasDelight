@@ -18,7 +18,7 @@
 				{
 					"translate": "effect.kleispack.haste",
 					"with": [
-						"1:30"
+						"0:20"
 					],
 					"color": "yellow",
 					"italic": false
@@ -42,7 +42,7 @@
               {
 								"id": "minecraft:haste",
 								"amplifier": 0,
-								"duration": 1800,
+								"duration": 400,
 								"show_particles": false,
 								"show_icon": false
 							}

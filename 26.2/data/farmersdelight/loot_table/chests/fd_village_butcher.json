@@ -4,12 +4,12 @@
     {
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "farmersdelight:flint_knife"
+          "type": "minecraft:loot_table",
+          "value": "matchafd:food/tools/flint_knife"
         },
         {
-          "type": "minecraft:item",
-          "name": "farmersdelight:iron_knife"
+          "type": "minecraft:loot_table",
+          "value": "matchafd:food/tools/iron_knife"
         },
         {
           "type": "minecraft:empty"

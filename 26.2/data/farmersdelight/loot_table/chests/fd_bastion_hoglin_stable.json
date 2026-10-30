@@ -4,7 +4,7 @@
     {
       "entries": [
         {
-          "type": "minecraft:item",
+          "type": "minecraft:loot_table",
           "functions": [
             {
               "damage": {
@@ -19,17 +19,17 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "farmersdelight:diamond_knife"
+          "value": "matchafd:food/tools/diamond_knife"
         },
         {
-          "type": "minecraft:item",
+          "type": "minecraft:loot_table",
           "functions": [
             {
               "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "farmersdelight:golden_knife",
+          "value": "matchafd:food/tools/golden_knife",
           "weight": 2
         },
         {
@@ -57,7 +57,7 @@
           "weight": 4
         },
         {
-          "type": "minecraft:item",
+          "type": "minecraft:loot_table",
           "functions": [
             {
               "count": {
@@ -68,7 +68,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "farmersdelight:smoked_ham",
+          "value": "matchafd:food/farmersdelight/smoked_ham",
           "weight": 2
         },
         {

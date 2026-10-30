@@ -16,14 +16,14 @@
 		"components": {
 			"minecraft:lore": [
 				{
-					"text": "\ue030\ue030\ue030\ue030",
+					"text": "\ue030\ue030\ue030\ue030\ue030\ue030",
 					"color": "red",
 					"italic": false
 				},
 				{
 					"translate": "effect.kleispack.strength",
 					"with": [
-						"5:00"
+						"10:00"
 					],
 					"color": "#860111",
 					"italic": false
@@ -40,14 +40,14 @@
 							{
 								"id": "minecraft:regeneration",
 								"amplifier": 2,
-								"duration": 96,
+								"duration": 144,
 								"show_particles": false,
 								"show_icon": false
 							},
 							{
 								"id": "minecraft:strength",
 								"amplifier": 0,
-								"duration": 6000,
+								"duration": 12000,
 								"show_particles": false,
 								"show_icon": false
 							}

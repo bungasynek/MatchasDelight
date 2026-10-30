@@ -48,7 +48,7 @@
 							},
 							{
 								"id": "minecraft:resistance",
-								"amplifier": 1,
+								"amplifier": 0,
 								"duration": 4800,
 								"show_particles": false,
 								"show_icon": false
